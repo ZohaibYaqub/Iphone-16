@@ -66,13 +66,13 @@ const Hero5 = () => {
                         Forged in titanium.</h1>
                 </div>
                 <div className="iphonevideo">
-                    <video autoPlay muted className='videofile' src="../Videos/large.mp4"></video>
+                    <video autoPlay muted className='videofile' src="../public/Videos/large.mp4"></video>
                 </div>
                 <div className="twovideo">
-                    <img className='left' src="../Images/left.jpg" alt="" />
+                    <img className='left' src="../public/Images/left.jpg" alt="" />
                     <div className="rightimg">
 
-                        <img className='right' src="../Images/right.jpg" alt="" />
+                        <img className='right' src="../public/Images/right.jpg" alt="" />
                     </div>
                 </div>
                 <div className="twotext">

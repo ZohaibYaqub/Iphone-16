@@ -27,7 +27,7 @@ const Hero1 = () => {
         <>
             <div className="hero">
                 <h1>iPhone 15 Pro</h1>
-                <video className='video' autoPlay muted src="../Videos/1.mp4"></video>
+                <video className='video' autoPlay muted src="../public/Videos/1.mp4"></video>
                 {/* <img src="https://www.apple.com/v/iphone-15-pro/c/images/overview/welcome/hero_endframe__ov6ewwmbhiqq_large.jpg" alt="" /> */}
                 <div className="herobuy">
                 <button className='herobtn'>Buy</button>
