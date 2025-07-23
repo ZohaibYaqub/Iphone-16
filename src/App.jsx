@@ -5,7 +5,7 @@ import Hero2 from './Components/Hero2'
 import Hero3 from './Components/Hero3'
 
 import Hero5 from './Components/Hero5'
-import ScrollComponent from './Components/scrollcomponent'
+import ScrollComponent from './Components/ScrollComponent'
 import Hero6 from './Components/Hero6'
 import Hero4 from './Components/Hero4'
 
@@ -14,14 +14,14 @@ const App = () => {
 
   return (
     <>
-      <ScrollComponent/>
+      <ScrollComponent />
       <Header />
-      <Hero1/>
-      <Hero2/>
-      <Hero3/>
-      <Hero4/>    
-      <Hero5/>  
-      <Hero6/>
+      <Hero1 />
+      <Hero2 />
+      <Hero3 />
+      <Hero4 />
+      <Hero5 />
+      <Hero6 />
     </>
   )
 }
