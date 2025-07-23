@@ -5,14 +5,14 @@ const Hero6 = () => {
         <>
             <div className="chipsection">
                 <div className="chiptext">
-                    <img src="../public/Images/chip.jpg" alt="chip" />
+                    <img src="/Images/chip.jpg" alt="chip" />
                     <h1>A17 Pro chip.<br />
                         A monster win for gaming.</h1>
                     <h2>It’s here. The biggest redesign in the history of Apple GPUs.</h2>
                 </div>
                 <div className="mble">
-                    <img className='mbleimg' src="../public/Images/mble.png" alt="mblevideo" />
-                    <video autoPlay muted className='mblevideo ' src="../public/Videos/mblevideo.mp4"></video>
+                    <img className='mbleimg' src="/Images/mble.png" alt="mblevideo" />
+                    <video autoPlay muted className='mblevideo ' src="/Videos/mblevideo.mp4"></video>
                     <h4>Honkai: Star Rail</h4>
                 </div>
 

@@ -6,11 +6,11 @@ import * as THREE from 'three';
 const Her04Scene = ({ textureIndex }) => {
     // Load all textures
     const textures = useTexture([
-        "../public/Images/1.jpg", // Cream image
-        "../public/Images/2.jpg", // Silver image   
-        "../public/Images/3.jpg", // Full cream image
-        "../public/Images/4.jpg", // Gray image
-        "../public/Images/5.jpg", // All colors image
+        "/Images/1.jpg", // Cream image
+        "/Images/2.jpg", // Silver image   
+        "/Images/3.jpg", // Full cream image
+        "/Images/4.jpg", // Gray image
+        "/Images/5.jpg", // All colors image
         
 
     ]);

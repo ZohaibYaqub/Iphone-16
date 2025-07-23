@@ -110,16 +110,16 @@ const Hero3 = () => {
                     </h2>
                 </div>
                 <div className="videocontainer">
-                    <video className='videoplay' autoPlay muted src="../public/Videos/video1.mp4"></video>
+                    <video className='videoplay' autoPlay muted src="/Videos/video1.mp4"></video>
                 </div>
                 <div className="videocontainer">
-                    <video className='videoplay' autoPlay muted src="../public/Videos/video2.mp4"></video>
+                    <video className='videoplay' autoPlay muted src="/Videos/video2.mp4"></video>
                 </div>
                 <div className="videocontainer">
-                    <video className='videoplay' autoPlay muted src="../public/Videos/video3.mp4"></video>
+                    <video className='videoplay' autoPlay muted src="/Videos/video3.mp4"></video>
                 </div>
                 <div className="videocontainer">
-                    <video className='videoplay' autoPlay muted src="../public/Videos/video4.mp4"></video>
+                    <video className='videoplay' autoPlay muted src="/Videos/video4.mp4"></video>
                 </div>
                 <div className="tophead">
 
